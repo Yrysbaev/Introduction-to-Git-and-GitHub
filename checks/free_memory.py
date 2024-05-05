@@ -1,6 +1,6 @@
 #! usr/bin/env Python3
 
 def main():
-    print("Hello World!")
+    """I just wondered how it works"""
 
 main()
