@@ -1,4 +1,5 @@
 Glossary terms from course 3, module 2
+
 Terms and definitions from Course 3, Module 2
 
 Branch: A pointer to a particular commit, representing an independent line of development in a project
@@ -17,4 +18,4 @@ Rollback: The act of reverting changes made to software to a previous state
 
 Three-way merge: A merge when the snapshots at the two branch tips with the most recent common ancestor, the commit before the divergence
 
-
+Stability 
